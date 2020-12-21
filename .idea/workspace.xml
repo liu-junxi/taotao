@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07f6e5bd-9e34-4d29-94b4-284c4945037f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lwwEtgDjbuT2pJS1JwrqH6fgBJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/taotao-parent" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07f6e5bd-9e34-4d29-94b4-284c4945037f" name="Default Changelist" comment="" />
+      <created>1608521352494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608521352494</updated>
+      <workItem from="1608521353733" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="886" y="241" key="FileChooserDialogImpl" timestamp="1608521435550">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="886" y="241" key="FileChooserDialogImpl/0.0.1920.1049@0.0.1920.1049" timestamp="1608521435550" />
+    <state x="746" y="249" key="NewModule_or_Project.wizard" timestamp="1608521437185">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="746" y="249" key="NewModule_or_Project.wizard/0.0.1920.1049@0.0.1920.1049" timestamp="1608521437185" />
+    <state x="586" y="126" key="SettingsEditor" timestamp="1608521438993">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="586" y="126" key="SettingsEditor/0.0.1920.1049@0.0.1920.1049" timestamp="1608521438993" />
+  </component>
+</project>

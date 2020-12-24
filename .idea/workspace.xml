@@ -1,38 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07f6e5bd-9e34-4d29-94b4-284c4945037f" name="Default Changelist" comment="" />
+    <list default="true" id="1594c275-07d0-46a4-ada1-ee3f10ec866c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1lwwEtgDjbuT2pJS1JwrqH6fgBJ" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m2zYzsTElOA22qltsRlOyBXYfo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/taotao-parent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/taotao-manager-web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManagerWebApp">
+    <configuration name="ComsumerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="itcast-dubbo-comsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.ComsumerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerServiceApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="taotao-manager-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.ManagerServiceApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerWebApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="taotao-manager-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.ManagerWebApp" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/taotao-manager-web" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="itcast-dubbo-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.ProviderApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ComsumerApp" />
+      <item itemvalue="Spring Boot.ManagerServiceApp" />
+      <item itemvalue="Spring Boot.ManagerWebApp" />
+      <item itemvalue="Spring Boot.ProviderApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ManagerWebApp" />
+        <item itemvalue="Spring Boot.ManagerServiceApp" />
+        <item itemvalue="Spring Boot.ComsumerApp" />
+        <item itemvalue="Spring Boot.ProviderApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="07f6e5bd-9e34-4d29-94b4-284c4945037f" name="Default Changelist" comment="" />
-      <created>1608521352494</created>
+      <changelist id="1594c275-07d0-46a4-ada1-ee3f10ec866c" name="Default Changelist" comment="" />
+      <created>1608706525984</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608521352494</updated>
-      <workItem from="1608521353733" duration="85000" />
+      <updated>1608706525984</updated>
+      <workItem from="1608706529891" duration="2109000" />
+      <workItem from="1608732583105" duration="251000" />
+      <workItem from="1608732849122" duration="2145000" />
     </task>
     <servers />
   </component>
@@ -40,17 +163,61 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="886" y="241" key="FileChooserDialogImpl" timestamp="1608521435550">
+    <state x="414" y="179" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608733701606">
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
-    <state x="886" y="241" key="FileChooserDialogImpl/0.0.1920.1049@0.0.1920.1049" timestamp="1608521435550" />
-    <state x="746" y="249" key="NewModule_or_Project.wizard" timestamp="1608521437185">
+    <state x="414" y="179" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1049@0.0.1920.1049" timestamp="1608733701606" />
+    <state x="740" y="214" key="FileChooserDialogImpl" timestamp="1608733699729">
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
-    <state x="746" y="249" key="NewModule_or_Project.wizard/0.0.1920.1049@0.0.1920.1049" timestamp="1608521437185" />
-    <state x="586" y="126" key="SettingsEditor" timestamp="1608521438993">
+    <state x="740" y="214" key="FileChooserDialogImpl/0.0.1920.1049@0.0.1920.1049" timestamp="1608733699729" />
+    <state width="1293" height="440" key="GridCell.Tab.0.bottom" timestamp="1608771014743">
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
-    <state x="586" y="126" key="SettingsEditor/0.0.1920.1049@0.0.1920.1049" timestamp="1608521438993" />
+    <state width="1293" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1049@0.0.1920.1049" timestamp="1608771014743" />
+    <state width="1293" height="440" key="GridCell.Tab.0.center" timestamp="1608771014742">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1293" height="440" key="GridCell.Tab.0.center/0.0.1920.1049@0.0.1920.1049" timestamp="1608771014742" />
+    <state width="1293" height="440" key="GridCell.Tab.0.left" timestamp="1608771014742">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1293" height="440" key="GridCell.Tab.0.left/0.0.1920.1049@0.0.1920.1049" timestamp="1608771014742" />
+    <state width="1293" height="440" key="GridCell.Tab.0.right" timestamp="1608771014743">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1293" height="440" key="GridCell.Tab.0.right/0.0.1920.1049@0.0.1920.1049" timestamp="1608771014743" />
+    <state width="1293" height="440" key="GridCell.Tab.1.bottom" timestamp="1608771014743">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1293" height="440" key="GridCell.Tab.1.bottom/0.0.1920.1049@0.0.1920.1049" timestamp="1608771014743" />
+    <state width="1293" height="440" key="GridCell.Tab.1.center" timestamp="1608771014743">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1293" height="440" key="GridCell.Tab.1.center/0.0.1920.1049@0.0.1920.1049" timestamp="1608771014743" />
+    <state width="1293" height="440" key="GridCell.Tab.1.left" timestamp="1608771014743">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1293" height="440" key="GridCell.Tab.1.left/0.0.1920.1049@0.0.1920.1049" timestamp="1608771014743" />
+    <state width="1293" height="440" key="GridCell.Tab.1.right" timestamp="1608771014743">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1293" height="440" key="GridCell.Tab.1.right/0.0.1920.1049@0.0.1920.1049" timestamp="1608771014743" />
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1608732824025">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1049@0.0.1920.1049" timestamp="1608732824025" />
+    <state x="600" y="222" key="NewModule_or_Project.wizard" timestamp="1608706560501">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="600" y="222" key="NewModule_or_Project.wizard/0.0.1920.1049@0.0.1920.1049" timestamp="1608706560501" />
+    <state x="440" y="99" key="SettingsEditor" timestamp="1608733663116">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="440" y="99" key="SettingsEditor/0.0.1920.1049@0.0.1920.1049" timestamp="1608733663116" />
+    <state x="640" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1608732875313">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="640" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1049@0.0.1920.1049" timestamp="1608732875313" />
   </component>
 </project>
